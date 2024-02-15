@@ -1,1 +1,1 @@
-# Hardware-and-software-complex-for-pet-shelters
+# Программно-аппаратный комплекс для приютов домашних животных
